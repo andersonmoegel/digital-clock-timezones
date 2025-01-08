@@ -32,10 +32,10 @@ A fully responsive digital clock that allows users to select different time zone
 
 ## Screenshots
 ### Light Mode
-![Light Mode](https://photos.app.goo.gl/bdwFa1N7xstYA7Yr5)
+![Light Mode](https://github.com/andersonmoegel/digital-clock-timezones/blob/main/Light%20mode.PNG)
 
 ### Dark Mode
-![Dark Mode](https://photos.app.goo.gl/onmbtq3w1LWLhiMP6)
+![Dark Mode](https://github.com/andersonmoegel/digital-clock-timezones/blob/main/Dark%20Mode.PNG)
 
 
 ## Future Enhancements
